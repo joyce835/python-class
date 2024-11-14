@@ -1,0 +1,7 @@
+diet= input("enter your diet information(protein/carbohydrate/none):")
+if diet=="protein":
+    print("drink milk and egg")
+if diet=="carbohydrate":
+    print("eat bread and egg")
+if diet=="none":
+    print("eat all of all the different classes of food")

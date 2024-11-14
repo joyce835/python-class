@@ -1,0 +1,5 @@
+credits_entrance=int(input("enter credit entrance:"))
+if credits_entrance>=750:
+    print("access approved")
+if credits_entrance<=750:
+    print("access not approved")
