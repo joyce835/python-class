@@ -28,10 +28,10 @@
 # greet("name")
  
 
-# Number_list=(1, 2, 3, 4, 5 ,6 ,7 ,8, 9, 10)
-#print(Number_list[0])
-# Number_tuple=(1, 2, 3 ,4, 5, 6, 7, 8, 9, 10)
-# print(Number_tuple)
+Number_list=(1, 2, 3, 4, 5 ,6 ,7 ,8, 9, 10)
+print(Number_list[0])
+Number_tuple=(1, 2, 3 ,4, 5, 6, 7, 8, 9, 10)
+print(Number_tuple)
 
 # def course_mate_name():
 #     course_mate_name=input("enter your name:")
@@ -63,12 +63,12 @@
 # my_set = (1 , 2, 3)
 #result=(my_set)
 #print(*my_set)
-#for my_set in reversed(range(1,11)):
-# print(my_set)
-#for my_set in range(1,5):
-#     print(1,5)
-# for my_set in reversed(range(1,11)):
-#     print(my_set)
+for my_set in reversed(range(1,11)):
+ print(my_set)
+for my_set in range(1,5):
+    print(1,5)
+for my_set in reversed(range(1,11)):
+     print(my_set)
 
 
 # for number in range(1,11):
@@ -142,13 +142,13 @@
    # count+=1
 
 
-dozen=0
-count=1
-while count<20:
-     print(f"counting  {count}") 
-     if count% 12 ==0:
-         print(f"We have {dozen}  dozen of product")
-         dozen+=1
+# dozen=0
+# count=1
+# while count<20:
+#      print(f"counting  {count}") 
+#      if count% 12 ==0:
+#          print(f"We have {dozen}  dozen of product")
+#          dozen+=1
 #    count+=1
 
 #import math

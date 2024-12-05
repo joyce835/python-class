@@ -18,9 +18,9 @@ wk4_allowance=int(input("enter your week 4 allowance:"))
 total_allowance=converted_wk1_allowance+wk2_allowance+wk3_allowance+wk4_allowance
 
 average_allowance=(total_allowance/4)
-print("Hello" + str(username) + "of" +str(user_dapartment)   + "dapartment".\n"
+#print("Hello" + str(username) + "of" +str(user_dapartment)   + "dapartment .\n"
 "Thanks for using my calutator.\nYour avarage allowance for the month of"+ str(month)
-str(avarage_allowance))
+#str(avarage_allowance))
 
 
                    

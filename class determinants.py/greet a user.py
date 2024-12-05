@@ -3,7 +3,9 @@
 
 def greet_user(name):
     """
-    A function
+    determine the greet user base on the name
+    Agrs:
+     
     """
     return f"Hello,{name} ! welcome"
 print(greet_user("joy"))

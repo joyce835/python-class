@@ -5,7 +5,7 @@
 def student_detail():
     student_first_name=input("enter your first name:")
     student_last_name=input("enter your last name:")
-    student_full_name= student_first_name + " " + student_last_name
+    student_full_name= student_first_name + " " + student_last_name 
     student_gender=input("enter your gender:")
     student_seat_number=input("enter your seat number:")
     student_exam_number=input("enter your exam number:")
@@ -86,9 +86,11 @@ def student_detail():
     else:
         print("FAIL")
     return student_detail()
-    cumulative_grade = user_score_in_English + user_score_in_Math + user_score_in_Chemistry + user_score_in_Physics + user_score_in_ICT
+    
+def grade_calculation():
+    #cumulative_grade = user_score_in_English + user_score_in_Math + user_score_in_Chemistry + user_score_in_Physics + user_score_in_ICT
     number_of_subjects = 5
-    Average_score = cumulative_grade/number_of_subjects
-    print(Average_score)
-    if Average_score >=50:
-      print("pass")
+    #Average_score = cumulative_grade/number_of_subjects
+    #print(Average_score)
+    #if Average_score >=50:
+      # print("pass")

@@ -4,3 +4,8 @@
 #separation_of_number=[int(num) for num in number.split()]
 #return min(numbers)
 #   print(sum_list())
+username=input("enter your name")
+str()
+int()
+float()
+username=input("enter your name")

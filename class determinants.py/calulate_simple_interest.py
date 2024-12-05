@@ -4,6 +4,10 @@
 def simple_interest(prinical,rate,time):
     """
     determine the simple interset base on prinical, rate,time
+    Agrs:
+    prinical:the amount
+    rate:the amount
+    time:the 
     """
     print(prinical * rate * time)/100
 prinical=int(input("enter your princical amount:"))
