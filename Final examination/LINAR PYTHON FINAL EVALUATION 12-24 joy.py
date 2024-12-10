@@ -230,9 +230,14 @@ f)	Machine Learning Engineer
 
 
 Question 9 answer goes in here:
-This python course is great and also This exam is good.
-
-
+This python course so far.
+Is very easy to understand:The course was explained in a complex yet easy to understand manner through simplfied notes
+In this python course, there are also alot of practical aspect in this python course making it easy for beginners to  understand what they have been taught so far during the course of their training
+In this python course there were Too much theory, at times this course focuses more on theorethical aspect making it harder to understand for example "FOR LOOP" function
+In this python course they were topics that were rush quite a bit.
+This python course is highly suitable for beginners or those people who are in it.
+Our instructor is a nice person and a very educative person he taught us about the necessary things and also some tools that we need a pythonistas.
+And examination is a great one .
 
 BEST OF LUCK
 """
