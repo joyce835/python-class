@@ -19,7 +19,16 @@ student_school=input("enter the name of school")
 
 offical_attendence_mark=120
 student_times_absent=int(input("enter the number of times absent:"))
+
+
 student_times_present = offical_attendence_mark - student_times_absent
+if student_times_absent > offical_attendence_mark:
+       exit()
+elif student_times_absent < offical_attendence_mark:
+       print("continue marking")
+else:
+       print("error")
+       
 print (f'Total attendance is 120 \n Your total attendance present is {student_times_present} days')
 
 if student_times_present == 120:
